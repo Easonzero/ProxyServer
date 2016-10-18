@@ -4,7 +4,6 @@ import com.wangyi.define.ReqInfo;
 
 import java.io.IOException;
 import java.io.OutputStream;
-import java.net.Socket;
 
 /**
  * Created by eason on 16-10-18.
